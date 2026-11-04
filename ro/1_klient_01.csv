@@ -260,27 +260,27 @@ c:locale_game:MALL_PASSWORD_TITLE,Password,Hasło,Parola,client: game texts (loc
 c:locale_game:MAP_A1,Yongan Area,Strefa Yongan,Zona Yongan,client: game texts (localeInfo),done
 c:locale_game:MAP_A2,Valley of Seungryong,Dolina Seungryong,Valea Seungryong,client: game texts (localeInfo),done
 c:locale_game:MAP_A3,Yayang Area,Strefa Yayang,Zona Yayang,client: game texts (localeInfo),done
-c:locale_game:MAP_AG,Jungrang,Jungrang,Jungrang,client: game texts (localeInfo),check
+c:locale_game:MAP_AG,Jungrang,Jungrang,Zona Breslei Shinsoo,client: game texts (localeInfo),check
 c:locale_game:MAP_B1,Joan Area,Strefa Joan,Zona Joan,client: game texts (localeInfo),done
 c:locale_game:MAP_B2,Valley of Imji,Dolina Imji,Valea Imji,client: game texts (localeInfo),done
 c:locale_game:MAP_B3,Bokjung Area,Strefa Bokjung,Zona Bokjung,client: game texts (localeInfo),done
 c:locale_game:MAP_BAY,Nephrite Bay,Nefrytowa Zatoka,Golful Nefrit,client: game texts (localeInfo),done
-c:locale_game:MAP_BG,Waryong,Waryong,Waryong,client: game texts (localeInfo),check
+c:locale_game:MAP_BG,Waryong,Waryong,Zona Breslei Chunjo,client: game texts (localeInfo),check
 c:locale_game:MAP_C1,Pyungmoo Area,Strefa Pyungmoo,Zona Pyungmoo,client: game texts (localeInfo),done
 c:locale_game:MAP_C2,Valley of Bangsan,Dolina Bangsan,Valea Bangsan,client: game texts (localeInfo),done
 c:locale_game:MAP_C3,Bakra Area,Strefa Bakra,Zona Bakra,client: game texts (localeInfo),done
 c:locale_game:MAP_CAPE,Cape Dragon Fire,Przylądek Smoczego Ognia,Capul Focului Dragonului,client: game texts (localeInfo),done
-c:locale_game:MAP_CG,Imha,Imha,Imha,client: game texts (localeInfo),check
+c:locale_game:MAP_CG,Imha,Imha,Zona Breslei Jinno,client: game texts (localeInfo),check
 c:locale_game:MAP_DAWN,Gautama Cliff,Klif Gautama,Stanca Gautama,client: game texts (localeInfo),done
 c:locale_game:MAP_DESERT,Yongbi Desert,Pustynia Yongbi,Desertul Yongbi,client: game texts (localeInfo),done
-c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Doyyumhwan,client: game texts (localeInfo),check
+c:locale_game:MAP_FLAME,Doyyumhwan,Doyyumhwan,Tara de foc,client: game texts (localeInfo),check
 c:locale_game:MAP_NUSLUCK,Land of Giants,Kraina Gigantów,Tinutul Gigantilor,client: game texts (localeInfo),done
 c:locale_game:MAP_SKELTOWER,Gumsan Tower,Wieża Gumsan,Turnul Gumsan,client: game texts (localeInfo),done
 c:locale_game:MAP_SNOW,Mount Sohan,Góra Sohan,Muntele Sohan,client: game texts (localeInfo),done
-c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Kuahlo Dong,client: game texts (localeInfo),check
+c:locale_game:MAP_SPIDER,Kuahlo Dong,Kuahlo Dong,Temnita Paianjenilor V1,client: game texts (localeInfo),check
 c:locale_game:MAP_TEMPLE,Hwang Temple,Świątynia Hwang,Templul Hwang,client: game texts (localeInfo),done
 c:locale_game:MAP_THUNDER,Thunder Mountains,Gromiste Góry,Muntii Tunetului,client: game texts (localeInfo),done
-c:locale_game:MAP_TREE,Lungsam,Lungsam,Lungsam,client: game texts (localeInfo),check
+c:locale_game:MAP_TREE,Lungsam,Lungsam,Padurea Fermecata,client: game texts (localeInfo),check
 c:locale_game:MAP_TRENT02,Red Forest,Czerwony Las,Padurea Rosie,client: game texts (localeInfo),done
 c:locale_game:MAP_WL,Snakefield,Wężowe Pole,Campul Serpilor,client: game texts (localeInfo),done
 c:locale_game:MESSENGER_ADD_FRIEND,Add Friend,Dodaj Przyjaciela,Adauga prieten,client: game texts (localeInfo),done
